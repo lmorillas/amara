@@ -4,7 +4,7 @@ Amara XML Toolkit 2.0.0a6 (released 14 August 2011)
 A library for XML processing in Python, designed to balance the native idioms
 of Python with the native character of XML.
 
-http://wiki.xml3k.org/Amara2
+http://wiki.xml3k.org/Amara
 
 Amara 2.0 is part of Akara 2.0, an overall data processing platform that replaces 4Suite.
 
